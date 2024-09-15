@@ -13,7 +13,7 @@ The objective was to create a restaurant page, with a focus on incorporating Jav
 - <select> tags that allow users to select number of guests from a dropdown menu as well as time of reservation
 - Google iframes that highlight a hypothetical location of the restaurant that can be interacted with.
 
-## USEFUL RESOURCES
+# USEFUL RESOURCES
 
 - Stack Overflow
 - Geeks for Geeks
