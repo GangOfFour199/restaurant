@@ -1,5 +1,7 @@
 ## RESTAURANT PAGE
 
+![] (restaurant.png)
+
 ## ABOUT
 
 > *The objective of this assignment was to create a mock-up restuarant page, pertaining to specific use of JavaScript modules, importing and exporting as well as further DOM manipulation practice. The features of this page include:*
