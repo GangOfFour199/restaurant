@@ -21,15 +21,6 @@ The objective was to create a restaurant page, with a focus on incorporating Jav
 - Mozilla Developer Network
 - Javascript Docs
 
-## FOCUS TOPICS
-
-- Intermediate level use of HTML and CSS stylings
-- CSS grid layout.
-- Objects, object constructors and classes.
-- DOM manipulation & events.
-- Arrays.
-- User inputs to instantiate objects.
-
 ## THIS PROJECT WAS CREATED WITH
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
