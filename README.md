@@ -13,14 +13,13 @@ The objective was to create a restaurant page, with a focus on incorporating Jav
 - <select> tags that allow users to select number of guests from a dropdown menu as well as time of reservation
 - Google iframes that highlight a hypothetical location of the restaurant that can be interacted with.
 
+## USEFUL RESOURCES
 
-
-
-
-
-## OBJECTIVE
-
-> *The primary purpose of this assignment was to minimise the use of globally scoped variables, instead utiliising as many factory fucntions as possible. The programme has been wrapped in an object ***playGame()*** that can be called anytime during the code.*
+- Stack Overflow
+- Geeks for Geeks
+- W3C Schools
+- Mozilla Developer Network
+- Javascript Docs
 
 ## FOCUS TOPICS
 
@@ -54,8 +53,6 @@ The objective was to create a restaurant page, with a focus on incorporating Jav
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
 
-## NOTE
 
-*This project will be augmented in the future with inclusion of a computer AI player*
 
 
