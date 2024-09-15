@@ -13,24 +13,10 @@ The objective was to create a restaurant page, with a focus on incorporating Jav
 - <select> tags that allow users to select number of guests from a dropdown menu as well as time of reservation
 - Google iframes that highlight a hypothetical location of the restaurant that can be interacted with.
 
-# CONNECT 4
-
-![](assets/Connect4.png)
 
 
 
-## ABOUT
 
-This is a take on the classic game of Connect 4, where the objective for a player is to win by aligining 4 of their coloured counters in a row. This game includes features such as:
-
-- The ability to select their player names and have it display on the page.
-- A result message that pops up highlighting if player one or two has won. Also flashes a message if there is a tie.
-- When a counter is placed, it begins from the bottom of the column and stacks up.
-- As soon as column is filled, no marker can be placed.
-- Alternates turns on each go and keeps track of number of moves.
-- A 'Play Again' button that restarts the game and resets elements.
-- CheckWinner function that spots 4 counters in a row in all directions.
-- Working links.
 
 ## OBJECTIVE
 
