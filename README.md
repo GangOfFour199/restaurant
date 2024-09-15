@@ -1,6 +1,6 @@
 # RESTAURANT PAGE
 
-![](assets/Connect4.png)
+![](assets/)
 
 
 
