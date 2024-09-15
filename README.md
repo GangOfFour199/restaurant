@@ -1,6 +1,6 @@
 ## RESTAURANT PAGE
 
-![] (restaurant.png)
+![](restaurant.png)
 
 ## ABOUT
 
