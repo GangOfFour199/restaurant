@@ -2,6 +2,13 @@
 
 ## ABOUT
 
+> *The objective of this assignment was to create a mock-up restuarant page, pertaining to specific use of JavaScript modules, importing and exporting as well as further DOM manipulation practice. The features of this page include:*
+
+- Navigation fo tabbed links, which when clicked upon delete the content from a div and reload it with the corresponding module.
+- Dropdown menus which allow users to select the time of their reservation and number of guests.
+- A drinks section which contains two toggles - wine list and drinks menu.
+- Google iframe embedded features which can be interacted with.
+
 
 ## THIS PROJECT WAS MADE WITH
 
@@ -22,6 +29,6 @@
 
 [Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
-[Play the game here!](https://gangoffour199.github.io/Connect4/)
+[Book your table here!](https://gangoffour199.github.io/Connect4/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
