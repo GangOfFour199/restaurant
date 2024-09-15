@@ -12,4 +12,16 @@
 
 ## USEFUL RESOURCES
 
+- Stack Overflow
+- Geeks for Geeks
+- W3C Schools
+- Mozilla Developer Network
+- Javascript Documentation
+
 ## LINKS
+
+[Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
+
+[Play the game here!](https://gangoffour199.github.io/Connect4/)
+
+This markdown file was created using [dilinger.io](https://dillinger.io/)
