@@ -29,6 +29,6 @@
 
 [Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
-[Book your table here!](https://gangoffour199.github.io/Connect4/)
+[Book your table here!](https://gangoffour199.github.io/restaurant/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
