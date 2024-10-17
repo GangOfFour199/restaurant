@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Varela&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Sandinista Restaurant & Bar</title>
+<script defer src="main.js"></script></head>
+<body>
+<div class="header">
+    <h1 id="res-title">SANDINISTA DINING</h1>
+    <div id="founded"><h3>ESTABLISHED 2024<h3></div>
+</div>
+<div id="buttons">
+    <nav>
+        <button id="home"><a href="#">HOME</a></button>
+        <button id="lunch"><a href="#">LUNCH</a></button>
+        <button id="dinner"><a href="#">DINNER</a></button>
+        <button id="drinks"><a href="#">DRINKS</a></button>
+        <button id="story"><a href="#">WHO WE ARE</a></button>
+    </nav>
+</div>
+<div id="welcome-background">
+    <div id="welcome-photo">
+        <img src="https://images.pexels.com/photos/3201921/pexels-photo-3201921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="image">
+        <div id="overlay-message"><em><strong>An extraordinary experience of the senses...</strong></em></div>
+    </div>
+</div>
+<div id="welcome-message">
+    <h2><strong>OPULENT RESTAURANT, BAR & TERRACE DINING</strong></h2>
+    <h4>Delivered with enchanting mediterranean flair</h4>
+</div>
+<div id="content-background"></div>
+<div id="content">
+    
+    <!--Modules w/ DOM elements dynamically added here-->
+       
+        
+
+</div>
+<div id="reservations">
+<div id="res-title">
+    <p><strong>YOUR TABLE IS READY...</strong></p>
+</div>
+<div id="res-content">
+    <div id="calendar">
+        <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&ctz=Europe%2FLondon&bgcolor=%233F51B5&hl=en_GB&showPrint=0&showTabs=0&title=Sandinista%20Dining&showTitle=0&src=YzU3YTM1OGMxZGUyNmQ4OWY5YWYyMDcyMmEzZTg1OWRlMTUwNmU5YjYzZjczMTNlNjg0ZWU1MjZmZDYxMDc2NkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%239E69AF" style="border:none" width="380" height="300"></iframe>
+    </div>
+    <div id="booking-size">
+        <p><em>Please note we can only accommodate parties up to 6 people. Dining experiences are expected to last 1 hour 45 minutes to 2 hours 30 minutes as a guideline, based on booking size.</em></p>
+    </div>
+    <div id="select-booking">
+        <h4>Reservation Time</h4>
+        <label for ="reservation-lunchtime">Lunch:</label>
+        <select name="times" id="reservation-lunchtime">
+            <option value="">--Choose time--</option>
+              <option value="12:00">12:00</option>
+              <option value="12:30">12:30</option>
+              <option value="13:00">13:00</option>
+              <option value="13:30">13:30</option>
+              <option value="14:00">14:00</option>
+              <option value="14:30">14:30</option>
+              <option value="15:00">15:00</option>
+              <option value="15:30">15:30</option>
+        </select>
+        <label for ="reservation-dinnertime">Dinner:</label>
+        <select name="times" id="reservation-dinnertime">
+            <option value="">--Choose time--</option>
+              <option value="18:00">18:00</option>
+              <option value="18:30">18:30</option>
+              <option value="19:00">19:00</option>
+              <option value="19:30">19:30</option>
+              <option value="20:00">20:00</option>
+              <option value="20:30">20:30</option>
+              <option value="21:00">21:00</option>
+              <option value="21:30">21:30</option>
+              <option value="22:00">22:00</option> 
+        </select>
+        <label for ="reservation-numbers">Number of Guests:</label>
+        <select name="number" id="reservation-numbers">
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+        </select>
+    </div>
+    <div id="comment box">
+        <label for="details-textbox"><h4>Reservation Details</h4></label>
+        <textarea id="details-textbox" name="details-textbox" rows="8" cols="50">Celebrating a special something or special someone? Let us know here... </textarea>
+    </div>
+</div>
+<div id="res-button">
+    <button id="make-booking" type="submit">Reserve</button>
+</div>
+</div>
+<div id="contact-details">
+    <h4>CONTACT INFORMATION</h4>
+    <h5><strong>PHONE:</strong></h5><p> +44 (0) 7899 306574</p>
+    <h5><strong>ENQUIRIES:</strong></h5><p> info@sandinistadining.com</p>
+</div>
+<div id="footer">
+    <p>This website is powered by <a href="https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page">The Odin Project</a></p>
+    <p>Please take note of our booking & reservations policy <a href="">here</a>.</p>
+</div>  
+</body>
+</html>
